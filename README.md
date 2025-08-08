@@ -1,36 +1,49 @@
-# 📊 Excel Sales Data Analysis Dashboard
+# Excel Data Analysis Project 📊
 
-This project uses Microsoft Excel to perform data cleaning, modeling, KPI calculation, and interactive dashboard creation for a fictional retail company.
+This project showcases an end-to-end data analysis using Microsoft Excel. It includes:
 
-## 🔍 Project Overview
+- Power Query for data cleaning & transformation
+- Pivot Tables & Pivot Charts for insights
+- KPI tracking
+- Dashboards with slicers
+- Business questions & decision-making support
 
-- Cleaned and modeled raw sales data
-- Added calculated columns (e.g., COGS, Profit Margins)
-- Created relationships between normalized tables
-- Built pivot tables and interactive slicers
-- Designed a professional dashboard for insights
+---
 
-## 📁 Folder Structure
+## 📂 Folder Structure
 
-- `/Dashboard` — Final Excel file with all pivot tables and dashboards
-- `/Report` — PDF report describing methods and insights
-- `/Presentation` — (Optional) Slide deck for presenting findings
-- `/Screenshots` — Dashboard screenshots (for quick viewing)
+- `data/`: Contains the Excel workbook
+- `report/`: Contains the full PDF/Word report
+- `screenshots/`: Preview of the dashboard
 
-## 📸 Preview
-
-![Dashboard Screenshot](Screenshots/dashboard_preview.png)
-
-## 🛠 Tools Used
-
-- Microsoft Excel
-- Power Query
-- Power Pivot
-- Basic DAX formulas
+---
 
 ## 📈 Key Insights
 
-- Top customers and regions by revenue
-- Most and least profitable products
-- Shipping mode and delivery timing insights
-- Segmentation by category, region, and customer group
+- Top-performing categories by profit
+- Most used shipping mode
+- Customer loyalty indicators
+- Sales by region & year
+
+---
+
+## 🧠 Tools Used
+
+- Microsoft Excel
+- Power Query
+- Pivot Tables
+- KPI cards
+- Slicers & Dashboards
+
+---
+
+## 📸 Preview
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## 📄 Report
+
+Find the full business analysis report in `/report`.
+
