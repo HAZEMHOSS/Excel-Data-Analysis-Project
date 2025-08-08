@@ -39,8 +39,7 @@ This project showcases an end-to-end data analysis using Microsoft Excel. It inc
 
 ## 📸 Preview
 
-![Dashboard 1](Excel-Data-Analysis-Project/Screenshots
-/Dashboard-1.png)
+![Dashboard 1](Screenshots/Dashboard-1.png)
 ![Dashboard 2](Excel-Data-Analysis-Project/Screenshots/dashboard-2.png)
 ![Dashboard 3](Excel-Data-Analysis-Project/Screenshots/dashboard-3.png)
 
@@ -49,6 +48,7 @@ This project showcases an end-to-end data analysis using Microsoft Excel. It inc
 ## 📄 Report
 
 Find the full business analysis report in `/report`.
+
 
 
 
