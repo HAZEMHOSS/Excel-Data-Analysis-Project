@@ -39,15 +39,16 @@ This project showcases an end-to-end data analysis using Microsoft Excel. It inc
 
 ## 📸 Preview
 
-![Dashboard 1](screenshots/dashboard-1.png)
-![Dashboard 2](screenshots/dashboard-2.png)
-![Dashboard 3](screenshots/dashboard-3.png)
+![Dashboard 1](Screenshots/dashboard-1.png)
+![Dashboard 2](Screenshots/dashboard-2.png)
+![Dashboard 3](Screenshots/dashboard-3.png)
 
 ---
 
 ## 📄 Report
 
 Find the full business analysis report in `/report`.
+
 
 
 
