@@ -47,8 +47,7 @@ This project showcases an end-to-end data analysis using Microsoft Excel. It inc
 
 ## 📄 Report
 
-Find the full business analysis report in `/report`.
-
+![Report](Report/The report.pdf).
 
 
 
