@@ -47,7 +47,8 @@ This project showcases an end-to-end data analysis using Microsoft Excel. It inc
 
 ## 📄 Report
 
- [View Full Business Report(PDF)](Report/The-report.pdf)
+ [View Full Business Report](Report)
+
 
 
 
